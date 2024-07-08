@@ -3,3 +3,13 @@ node_modules/
 out/
 dist/
 build/
+Public/
+jsconfig.json
+next.config.js
+postcss.config.js
+README.md
+tailwind.config.js
+eslintrc.json
+prettierrc
+package-lock.json 
+package.json 
