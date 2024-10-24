@@ -22,7 +22,7 @@ function Footer() {
                     </p>
                     <div className="flex items-center gap-5">
                         <p>
-                            let's connect 
+                            let&apos;s connect
                             <span className="text-[#16f2b3] ml-1">
                                 {personalData.email}
                             </span>
